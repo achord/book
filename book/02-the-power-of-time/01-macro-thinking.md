@@ -1,0 +1,43 @@
+# Macro Thinking: Seeing Your Life at Scale
+
+## May 13, 2026
+
+You need to learn to think about and see your life on a macro level
+
+(Illustration here)
+
+```
+|------------|-----------------------------------------------------------------|
+birth      youth                                                            death
+```
+
+
+Think about your life on a macro scale, vs, what you need/want "right now", will pout you ahead of 99% of people your age.  I;m sure if you stop and think, you already know people your age who you think are "way ahead".  The truth is that this mindset can be learned. That is a big part of what this book ids about. If you take away one thing, may it be this;   YOU CAN DESIGN YOUR LIFE TO BE WHATEVER YOU WANT. It will not be easy. It will not be comfortable. Yu will know failure. But, it will be worth it. The alternative is a life not well lived. What's exciting is that as you travel on this journey, it gets easier and it gets exciting.
+
+Thinking in macro, is what the wealthy teach their kids.
+- Money, skills, and character are all made with compounding efforts; Use time to your advantage and you can have it all.
+
+---
+
+When I was younger I assumed there would be time tackle all of my thoughts and dreams
+- write a book
+- make a few films
+- travel
+- build a house
+- make art
+- Release multiple music albums into the world. tour
+- etc
+
+And now that I am middle-aged. I'm realizing a hard truth' My ideas, dreams, and ideas have expanded, while my time and autonomy have shrunk. Meaning: I now know, not think, that there is not enough time left in my life for me to do everything.
+
+The key is:
+- Only focus on what really speaks to you. If it's not a "Hell Yes!", is a "No."
+- Start early. If you're going to be a Renaissance Man, you need to go at life now. Less planning and dreaming, more action.
+
+---
+
+## Source References
+
+- Original file: `2026-05-13 - Macro.md`
+- Date reference: `2026-05-13`
+- Notes: Short note with a placeholder for an illustration. The "(Illustration here)" placeholder is preserved from the original.

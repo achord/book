@@ -1,0 +1,14 @@
+# Pushing Through Boredom
+
+## Monday Aug 26, 2024
+
+It's hard to get up every day and do the right thing, when you apparently see no result. It's hard to push when you have a rare moment of calm. But in these luls, lies a opportunity tpo move the needle. The take the nest step up, fo certainly the future will not be calm.  These are the momentsd where we double down on action, on what we've learned. It's ok to pause for a moment, then the next day, when our bots on a go to work, and if we do this over time, if we push through the boredom, we gradually get to the top of the mountain. We one day look down only to realize just hor far we've climbed.
+- Whenever possible, **Don't let fate decide**. I had to learn this one the hard way. When you throw your hands up and shrug, you are not participating. When it's a tough decision, it seems like it makes sense. It's hard to decide, so choose to give away your authority to fate. Let fate decide. No need to take action. You can't make a decision, so we let another. It seems like the easy way, but in fact you have just made things very hard for your future self.  You will soon know how you feel, once the decision has been made, beyond(outside of) your control. Only now you have no power to reverse that decision. You can only live with the consequences.  You decided, by not deciding. You decided to give away the power of autonomy. Instead, make a decision. Consider all paths before you. Make a call an except the best and worst possible scenarios in the outcome you choose, but choose with autonomy; it's the most powerful ally a single human being possesses. Hold on to autonomy. Avoid jails, both literal and metaphorical. Avoid being imprisoned in: a bad relationship, a shitty job, a broken body, etc. Don't leave something so important as your life's path to chaos.
+
+---
+
+## Source References
+
+- Original file: `2024-08-26 - Being bored.md`
+- Date reference: `2024-08-26`
+- Notes: Referenced in the main outline as "Being boring is hard" with a link `(2024-08-26 - Being bored.md)`. The meditation on boredom and the extended passage on autonomy and decision-making are both from this single file.

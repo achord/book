@@ -8,9 +8,9 @@
 
 This is an editorial working document, not a published page.
 
-The author — a 47-year-old man writing to the young men in his life — has been drafting this book since May 2024. The material covers the life lessons he learned the hard way: financial literacy, identity, integrity, the power of starting early, communication, relationships, and how to navigate a world transformed by technology.
+The material covers the life lessons he learned the hard way: financial literacy, identity, integrity, the power of starting early, communication, relationships, and how to navigate a world transformed by technology.
 
-The book is addressed primarily to his son Corbin (and son Sam), and explicitly to young middle-class men who were not handed a foundation — who have to figure it out themselves. The author's four core principles are: **Autonomy**, **Consistency**, **Connection**, and **Time**.
+The book is addressed primarily to young men in his life, and explicitly to young middle-class men who were not handed a foundation — who have to figure it out themselves. The author's four core principles are: **Autonomy**, **Consistency**, **Connection**, and **Time**.
 
 This repository contains raw notes, dated fragments, outline drafts, GPT feedback, quotes, and partially developed chapters. The `book/` directory organizes these into a chapter-based structure. The `source-archive/` directory preserves all original files exactly as written.
 

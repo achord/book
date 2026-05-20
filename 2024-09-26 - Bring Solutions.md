@@ -1,2 +1,0 @@
-- Always bring a solution to the table
-  - When ever there is problem, always show up with a plan on how to solve it. Don;t show up to a nmeet to discuss what went wrong and expect everyone else to figure it out. Practice empathy.  People want to know what can be done to fix it
